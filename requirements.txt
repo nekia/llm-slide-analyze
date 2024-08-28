@@ -1,0 +1,7 @@
+txt
+flask
+requests
+python-pptx
+pdf2image
+openai
+langchain
